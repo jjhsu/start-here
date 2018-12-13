@@ -23,7 +23,7 @@ Be sure to **Bring your Laptop.**
 
 
 
-Day 1 - Console Access
+Day 1 - `AWS Console`_
 ----------------------
 
 - obtain access to AWS
@@ -32,16 +32,16 @@ Day 1 - Console Access
 - working with EC2
 
 
-Day 2 - Cloud9 and AWS CLI
---------------------------
+Day 2 - `Cloud9 and AWS CLI`_
+-----------------------------
 
 - cloud9 instance
 - working with S3 in awscli
 - working with EC2 in awscli
 
 
-Day 3 - Linux Workstation Setup
--------------------------------
+Day 3 - `Linux Workstation Setup`_
+----------------------------------
 
 - python virtual environment
 - IAM access keys
@@ -56,9 +56,14 @@ Day 4 - Cloudformation
 - S3 bucket with cloudformation
 - EC2 instance with cloudformation
 
+There are 2 parts to this workshop:
 
-Day 5 - Learning Git
---------------------
+- `Cloudformation from the Console`_
+- `Cloudformation from AWS CLI`_
+
+
+Day 5 - `Learning Git`_
+-----------------------
 
 - git basics
 - working with remotes
@@ -66,8 +71,8 @@ Day 5 - Learning Git
 - github
 
 
-Day 6 - Beginning Python
-------------------------
+Day 6 - `Beginning Python`_
+---------------------------
 
 - getting started
 - resources
@@ -75,8 +80,8 @@ Day 6 - Beginning Python
 - working with modules
 
 
-Day 7 - Boto3 Python SDK
-------------------------
+Day 7 - `Boto3 Python SDK`_
+---------------------------
 
 - getting started with boto3
 - S3 bucket with boto3
@@ -102,7 +107,7 @@ Day 9 - Collaborating on Github
 
 
 Day 10 - Making a Python Package
--------------------------------
+--------------------------------
 
 - directory layout
 - setup.py
@@ -113,7 +118,7 @@ Day 10 - Making a Python Package
 
 
 Day 11 - Automated Unit Testing
-------------------------------
+-------------------------------
 
 - pytest again
 - flake8
@@ -121,10 +126,18 @@ Day 11 - Automated Unit Testing
 
 
 Day 12 - Automated Project Documentation
----------------------------------------
+----------------------------------------
 
 - ReSTructuredText revisited
 - sphinx
 - sphinx-apidocs
 - Readthedocs.io
 
+.. _AWS Console: aws_console.rst
+.. _Cloud9 and AWS CLI: cloud9_and_awscli.rst
+.. _Linux Workstation Setup: linux_workstation_setup.rst
+.. _Cloudformation from the Console: cloudformation_console.rst
+.. _Cloudformation from AWS CLI: cloudformation_awscli.rst
+.. _Learning Git: learning_git.rst
+.. _Beginning Python: beginning_python.rst
+.. _Boto3 Python SDK: boto3_python_sdk.rst
